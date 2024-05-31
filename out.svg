@@ -1,0 +1,41 @@
+<svg width='440.000000' height='440.000000' xmlns='http://www.w3.org/2000/svg'>
+<rect width='100%' height='100%' fill='white' />
+<line x1='20.000000' y1='415.968746' x2='420.000000' y2='415.968746' stroke='black' stroke-width='2' />
+<line x1='20.000000' y1='420.000000' x2='20.000000' y2='20.000000' stroke='black' stroke-width='2' />
+<circle cx='31.111111' cy='414.338127' r='2' fill='blue' />
+<circle cx='42.222222' cy='411.224097' r='2' fill='blue' />
+<circle cx='53.333333' cy='392.873967' r='2' fill='blue' />
+<circle cx='64.444444' cy='357.934549' r='2' fill='blue' />
+<circle cx='75.555556' cy='352.204733' r='2' fill='blue' />
+<circle cx='86.666667' cy='336.430755' r='2' fill='blue' />
+<circle cx='97.777778' cy='351.078021' r='2' fill='blue' />
+<circle cx='108.888889' cy='343.547730' r='2' fill='blue' />
+<circle cx='120.000000' cy='336.600611' r='2' fill='blue' />
+<circle cx='131.111111' cy='290.139282' r='2' fill='blue' />
+<circle cx='142.222222' cy='316.563243' r='2' fill='blue' />
+<circle cx='153.333333' cy='281.538897' r='2' fill='blue' />
+<circle cx='164.444444' cy='276.046880' r='2' fill='blue' />
+<circle cx='175.555556' cy='256.587023' r='2' fill='blue' />
+<circle cx='186.666667' cy='231.148228' r='2' fill='blue' />
+<circle cx='197.777778' cy='252.221719' r='2' fill='blue' />
+<circle cx='208.888889' cy='228.979730' r='2' fill='blue' />
+<circle cx='220.000000' cy='198.937833' r='2' fill='blue' />
+<circle cx='231.111111' cy='211.065564' r='2' fill='blue' />
+<circle cx='242.222222' cy='180.123429' r='2' fill='blue' />
+<circle cx='253.333333' cy='196.616465' r='2' fill='blue' />
+<circle cx='264.444444' cy='186.402446' r='2' fill='blue' />
+<circle cx='275.555556' cy='180.740573' r='2' fill='blue' />
+<circle cx='286.666667' cy='142.647492' r='2' fill='blue' />
+<circle cx='297.777778' cy='114.360775' r='2' fill='blue' />
+<circle cx='308.888889' cy='146.021968' r='2' fill='blue' />
+<circle cx='320.000000' cy='110.974975' r='2' fill='blue' />
+<circle cx='331.111111' cy='92.500283' r='2' fill='blue' />
+<circle cx='342.222222' cy='85.247424' r='2' fill='blue' />
+<circle cx='353.333333' cy='98.201789' r='2' fill='blue' />
+<circle cx='364.444444' cy='76.465859' r='2' fill='blue' />
+<circle cx='375.555556' cy='45.552033' r='2' fill='blue' />
+<circle cx='386.666667' cy='25.661873' r='2' fill='blue' />
+<circle cx='397.777778' cy='38.803080' r='2' fill='blue' />
+<circle cx='408.888889' cy='32.931718' r='2' fill='blue' />
+<line x1='20.000000' y1='421.930242' x2='420.000000' y2='11.939082' stroke='red' stroke-width='2' />
+</svg>
