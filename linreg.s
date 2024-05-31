@@ -3,7 +3,7 @@ file: asm_linreg.s
 author: LuigiG - LG@THLG.NL
 license: MIT
 
-ARM64 NEON SIMD implementation of linear regression
+ARM64 NEON SIMD implementation of simple linear regression
 
 */
 .global _mean
