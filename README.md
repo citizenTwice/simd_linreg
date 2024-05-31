@@ -1,5 +1,5 @@
 
-# NEON-powered SIMD Linear Regression
+# Vectorized Simple Linear Regression with ARM64 NEON SIMD
 ARM64 assembly implementation of linear regression using the NEON SIMD features for vectorization.
 Mainly as exercise in asm programming, for experimentation and learning. 
 The vectorization speedup is measurable, on my M2 Macbook Air the the SIMD implementation is over 10x faster than the naive C implementation.
