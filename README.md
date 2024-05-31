@@ -9,6 +9,7 @@ The vectorization speedup is measurable, on my M2 Macbook Air the the SIMD imple
 ## Useful Resources
 * Wikipedia: https://en.wikipedia.org/wiki/Simple_linear_regression
 * Howard Oakley's ARM Assembly articles, in particular "Lanes and loads in NEON" https://eclecticlight.co/2021/08/23/code-in-arm-assembly-lanes-and-loads-in-neon/
+* Alexander von Below's Hello Silicon repo https://github.com/below/HelloSilicon
 * Raymond Chen's ARM64's series https://devblogs.microsoft.com/oldnewthing/20220726-00/?p=106898
 
 ## Feedback
