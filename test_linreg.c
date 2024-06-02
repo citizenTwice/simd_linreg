@@ -51,7 +51,7 @@ static void ref_test_linreg(double x[], double y[], int n, double *slope, double
   *intercept = y_mean - (*slope * x_mean);
 }
 
-void generate_svg_out(const char *filename, double x[], double y[], int n, double slope, double intercept) {
+static void generate_svg_out(const char *filename, double x[], double y[], int n, double slope, double intercept) {
   const double PAD = 1.0;
   const double W = 400;
   const double H = 400;
